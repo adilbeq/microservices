@@ -2,8 +2,8 @@
 You need npm installed on your PC. 
 
 ## Usage ##
-Clone repository, 
-Run server in cmd: node app.js
+Clone repository and run server in cmd: node app.js <br />
+Script uses port: 3000
 
 ## Examples ##
 **INSERT user in json:**
