@@ -1,0 +1,1 @@
+{"username":"adam","email":"asik@mail.ru","deleted":"0"}
