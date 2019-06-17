@@ -9,5 +9,5 @@ Script uses port: 3000
 **INSERT user in json:**
 {"username":"adam","email":"asik@mail.ru","deleted":"0"}
 
-**PUT|UPDATE user in json:**
+**PUT | UPDATE user in json:**
 {"username":"Adam12", "id" : 4}
